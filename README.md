@@ -1,7 +1,8 @@
 # MyCard
 ---
 <br />
-### Screenshot
+
+## Screenshot
 ---
 <br />
 <img src = "/mycardss.png" >
