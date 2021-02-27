@@ -5,4 +5,4 @@
 ## Screenshot
 ---
 <br />
-<img src = "/mycardss.png" >
+<img src = "/MyCard.png" >
